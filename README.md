@@ -1,6 +1,6 @@
-# 🏥 Healthcare Analytics – Doctor Visits
+#  Healthcare Analytics – Doctor Visits
 
-## 📌 Project Overview
+##  Project Overview
 
 **Healthcare Analytics – Doctor Visits** is a Python-based data analysis project that explores patterns in healthcare utilization by analyzing patient doctor-visit data.
 
@@ -8,7 +8,7 @@ The project examines how **gender, illness score, and age** are associated with 
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The main objectives of this project are:
 
@@ -20,7 +20,7 @@ The main objectives of this project are:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology       | Purpose                                      |
 | ---------------- | -------------------------------------------- |
@@ -33,7 +33,7 @@ The main objectives of this project are:
 
 ---
 
-## 📊 Data Analysis & Visualizations
+##  Data Analysis & Visualizations
 
 ### 1. Average Doctor Visits by Gender
 
@@ -84,7 +84,7 @@ This visualization allows multiple patient characteristics to be examined simult
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 Based on the analysis:
 
@@ -98,21 +98,21 @@ Based on the analysis:
 
 ---
 
-## 👥 Potential End Users
+##  Potential End Users
 
 The analysis can be useful for:
 
-* 🏥 **Hospitals and Healthcare Organizations**
-* 👨‍⚕️ **Doctors and Medical Professionals**
-* 📊 **Healthcare Administrators**
-* 🔬 **Healthcare Analysts and Researchers**
-* 🏛️ **Government and Health-Planning Agencies**
+*  **Hospitals and Healthcare Organizations**
+*  **Doctors and Medical Professionals**
+*  **Healthcare Administrators**
+*  **Healthcare Analysts and Researchers**
+*  **Government and Health-Planning Agencies**
 
 These stakeholders can use similar analytics approaches to explore healthcare utilization patterns and support data-driven planning.
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### Step 1 – Open Google Colab
 
@@ -146,7 +146,7 @@ Review the generated tables and visualizations to understand the observed doctor
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Healthcare-Analytics-Doctor-Visits/
@@ -158,7 +158,7 @@ Healthcare-Analytics-Doctor-Visits/
 
 ---
 
-## 📄 File Description
+##  File Description
 
 ### `README.md`
 
@@ -181,7 +181,7 @@ Contains the healthcare dataset used for the analysis.
 
 ---
 
-## 🔍 Project Workflow
+##  Project Workflow
 
 ```text
 Healthcare CSV Dataset
@@ -203,7 +203,7 @@ Interpret Results
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 This project demonstrates how **Python-based healthcare analytics** can be used to explore doctor-visit patterns across different patient characteristics.
 
