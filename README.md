@@ -112,40 +112,6 @@ These stakeholders can use similar analytics approaches to explore healthcare ut
 
 ---
 
-##  How to Run the Project
-
-### Step 1 – Open Google Colab
-
-Open the project notebook in **Google Colab**.
-
-### Step 2 – Upload the Dataset
-
-Upload the following CSV file:
-
-`healthcare_doctor_visits.csv`
-
-### Step 3 – Load and Preprocess the Data
-
-Run the data-loading and preprocessing cells in the notebook.
-
-### Step 4 – Perform the Analysis
-
-Execute the Python analysis cells to calculate:
-
-* Gender-based doctor-visit statistics
-* Illness-score averages
-* Other relevant statistical measures
-
-### Step 5 – Generate Visualizations
-
-Run the visualization cells to generate the graphs and scatter plots.
-
-### Step 6 – Analyze the Results
-
-Review the generated tables and visualizations to understand the observed doctor-visit patterns.
-
----
-
 ##  Project Structure
 
 ```text
